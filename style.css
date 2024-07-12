@@ -1,0 +1,58 @@
+body
+{
+    font-family: sans-serif;
+}
+main
+{
+    margin: 0 10%;
+}
+a
+{
+    color: rgb(0,106,178);
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+header
+{
+    display: flex;
+    font-size: 10pt;
+    margin: 0 0 0 10%;
+}
+header div
+{
+    padding: 10px;
+}
+h2
+{
+    font-weight: 550;
+}
+.row
+{
+    display: flex;
+}
+.row div
+{
+    width: 270px;
+    padding: 5px;
+}
+button
+{
+    border: none;
+    padding: 12px 7px;
+}
+.links span
+{
+    padding: 5px;
+}
+section:nth-of-type(1)
+{
+    padding-top: 50px;
+}
+section
+{
+    padding-bottom: 50px;
+}

@@ -1,0 +1,30 @@
+body
+{
+    font-family: sans-serif;
+}
+.row
+{
+    display: flex;
+}
+.row h2
+{
+    font-size: 13pt;
+}
+div
+{
+    padding: 10px;
+}
+a 
+{
+  color: rgb(0,106,178);
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.links a
+{
+    margin: 0 20px;
+}
